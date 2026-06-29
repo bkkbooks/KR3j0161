@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0161/krp/v1/juan/60
+seq: 60
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0161_WYG_060-1a, image: WYG0869/WYG0869-0187c.png}
+body:
+  text: 春眀夢餘録卷六十吏部左侍郎孫承澤撰鴻臚寺鴻臚寺在闕東工部之南初置儀侍司為從六品衙門職専朝㑹賓客吉凶禮之事洪武九年改為殿庭儀禮司設使副承奉鳴贊序班十三年革承奉添設司儀十九年正使為司正副為左右司副三十年始改鴻臚寺升正四品衙門定設卿左右少卿左右寺丞屬官主簿司儀司賓署各署丞鳴贊序班等官後又設四裔通事亦𨽻焉宣德元年四月建公署於亰師周禮有大行人掌大賓之禮及大客之儀小行人掌邦國之禮籍以待四方之使者秦之典客漢之鴻臚皆其職也漢文有大行為鴻臚屬官顔師古曰事之尊重者遣大鴻臚而輕賤者遣行人是巳武帝時更名行人為大行令其後事歸鴻臚唐之典客司儀宋之懷逺其名不一然皆鴻臚之事無復有行人之名矣春眀夢餘録卷六十
+  hash: sha256:e116af7ba0c3fc69e60562e55368dbce6d89ffb32fd024507104baa12aab0ce2
+metadata:
+  title: 春明夢餘錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:25:42.182404'
+  juan_title: 卷六十
+  source:
+    repository: kanripo
+    path: KR3j0161/KR3j0161_060.txt
+hash: sha256:3239e2c352928eb2d31d5edaee6e996cda56678409f18911e34abec0b58165fd
